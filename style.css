@@ -15,3 +15,14 @@ body{
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte);
 }
+.titulo_principal{
+    font-family: var(--fonte);
+    font-size: 32px;
+}
+.titulo_secundario{
+    font-size: 24px;
+}
+.conteudo_titulo{
+    text-align: center;
+    margin-top: 80px;
+}
