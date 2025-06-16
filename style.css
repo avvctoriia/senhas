@@ -36,9 +36,12 @@ body{
     border-bottom: 6px groove var(--borda);
 }
 #campo_senha{
-    background-color: var(--fundo-senha);
+    background-color: var(--cor-de-fundo);
     border: none;
     color: var(--branco);
     font-size: 40px;
     width: 70%;
+}
+#campo_senha:focus{
+    outline: none;
 }
