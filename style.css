@@ -29,7 +29,7 @@ body{
 .cadeado_conteudo{
     width: 100px;
 }
-.conteudo_senha{
+.conteudo_senhas{
     margin-top: 80px;
     background: var(--fundo-senha);
     padding: 24px;
