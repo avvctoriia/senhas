@@ -4,7 +4,7 @@
     --cor-de-fundo:#144272;
     --fundo-senha:#2C74B3;
     --fundo-texto:#0A2647;
-    --borda:#205295;
+    --borda:#144272;
     --fonte: 'PT Serif', sans-serif;
 }
 *{
@@ -34,4 +34,11 @@ body{
     background: var(--fundo-senha);
     padding: 24px;
     border-bottom: 6px groove var(--borda);
+}
+#campo_senha{
+    background-color: var(--fundo-senha);
+    border: none;
+    color: var(--branco);
+    font-size: 40px;
+    width: 70%;
 }
